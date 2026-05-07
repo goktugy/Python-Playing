@@ -22,4 +22,4 @@ if  __name__ == '__main__':
     inner_call = outer_function()
     inner_call("Hello from Gea")
     inner_call("Hello from Castores")
-    inner_call("Hello from Tortugas", "Mini")
+    inner_call("Hello from Tortugas")
